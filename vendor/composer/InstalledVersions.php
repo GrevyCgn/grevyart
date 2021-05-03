@@ -25,12 +25,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '9268c75e0bac89f76b37d4b60b1d26c521c5b12d',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -736,6 +736,15 @@ private static $installed = array (
         0 => '9.1.7',
       ),
     ),
+    'drupal/phpmailer_smtp' => 
+    array (
+      'pretty_version' => '2.0.2',
+      'version' => '2.0.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '2.0.2',
+    ),
     'drupal/quickedit' => 
     array (
       'replaced' => 
@@ -752,12 +761,12 @@ private static $installed = array (
     ),
     'drupal/recommended-project' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '9268c75e0bac89f76b37d4b60b1d26c521c5b12d',
     ),
     'drupal/responsive_image' => 
     array (
@@ -1052,6 +1061,15 @@ private static $installed = array (
       array (
       ),
       'reference' => 'dbb42a5a0e45f3adcf99babfb2a1ba77b8ac36a7',
+    ),
+    'phpmailer/phpmailer' => 
+    array (
+      'pretty_version' => 'v6.4.1',
+      'version' => '6.4.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '9256f12d8fb0cd0500f93b19e18c356906cbed3d',
     ),
     'psr/container' => 
     array (
