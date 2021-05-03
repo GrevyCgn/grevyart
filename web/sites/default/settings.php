@@ -780,11 +780,11 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'DB4059210',
-  'username' => 'U4059210',
-  'password' => 'JSDNy2Xk74wg4SiPu',
+'database' => 'grevyart',
+  'username' => 'root',
+  'password' => '',
   'prefix' => '',
-  'host' => 'rdbms.strato.de',
+  'host' => 'localhost',
   'port' => '3306',
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
