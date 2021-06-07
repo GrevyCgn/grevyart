@@ -20,6 +20,7 @@
         "drupal/core-composer-scaffold": "^9.1",
         "drupal/core-project-message": "^9.1",
         "drupal/core-recommended": "^9.1",
+        "drupal/gin": "^3.0@alpha",
         "drupal/phpmailer_smtp": "^2.0"
     },
     "conflict": {
