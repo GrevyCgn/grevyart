@@ -17,10 +17,12 @@
     "require": {
         "composer/installers": "^1.9",
         "drupal/admin_toolbar": "^3.0",
+        "drupal/commerce": "^2.24",
         "drupal/core-composer-scaffold": "^9.1",
         "drupal/core-project-message": "^9.1",
         "drupal/core-recommended": "^9.1",
-        "drupal/gin": "^3.0@alpha",
+        "drupal/gin": "^3.0.0@alpha",
+        "drupal/inline_entity_form": "^1.0@RC",
         "drupal/phpmailer_smtp": "^2.0"
     },
     "conflict": {
